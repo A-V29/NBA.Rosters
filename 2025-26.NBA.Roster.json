@@ -20431,7 +20431,7 @@
 "pos":"C","hgt":83,"weight":250,"srID":"castlco01",
 "born":{"year":2000,"loc":"Pembroke Pines, FL"},
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1630658.png",
-"contract":{"amount":600,"exp":2026},
+"contract":{"amount":700,"exp":2027},
 "transactions":[{"phase":8,"season":2025,"tid":21,"type":"freeAgent"}],
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2023},
 "college":"Florida",
