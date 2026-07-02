@@ -4492,6 +4492,7 @@
 
 {"tid":24,
 "name":"Ja Morant",
+"jerseyNumber":"1",
 "ratings":[{"season":2020,"hgt":37,"stre":62,"spd":88,"jmp":91,"endu":70,"ins":81,"dnk":93,"ft":53,"fg":94,"tp":37,"diq":40,"oiq":80,"drb":58,"pss":60,"reb":76},{"season":2021,"hgt":37,"stre":65,"spd":88,"jmp":91,"endu":70,"ins":90,"dnk":93,"ft":53,"fg":94,"tp":37,"diq":40,"oiq":87,"drb":58,"pss":60,"reb":76},{"season":2022,"hgt":37,"stre":65,"spd":88,"jmp":91,"endu":70,"ins":90,"dnk":93,"ft":53,"fg":94,"tp":37,"diq":40,"oiq":87,"drb":58,"pss":60,"reb":76},{"season":2023,"hgt":37,"stre":58,"spd":90,"jmp":83,"endu":50,"ins":88,"dnk":87,"ft":47,"fg":94,"tp":36,"diq":40,"oiq":91,"drb":55,"pss":61,"reb":79},{"season":2024,"hgt":37,"stre":55,"spd":90,"jmp":83,"endu":50,"ins":79,"dnk":87,"ft":47,"fg":89,"tp":36,"diq":40,"oiq":83,"drb":55,"pss":61,"reb":76},{"season":2025,"hgt":37,"stre":47,"spd":90,"jmp":83,"endu":44,"ins":79,"dnk":87,"ft":59,"fg":84,"tp":39,"diq":41,"oiq":82,"drb":55,"pss":61,"reb":72},
 {"season":2026,"hgt":37,"stre":41,"spd":80,"jmp":78,"endu":42,"ins":81,"dnk":79,"ft":65,"fg":87,"tp":37,"diq":44,"oiq":83,"drb":55,"pss":61,"reb":67}],
 "pos":"PG","hgt":75,"weight":174,"srID":"moranja01",
@@ -20864,7 +20865,7 @@
 "pos":"F","hgt":79,"weight":206,"srID":"freemen01",
 "born":{"year":2001,"loc":"Cleveland, OH"},
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1642402.png",
-"contract":{"amount":600,"exp":2026},
+"contract":{"amount":700,"exp":2027},
 "transactions":[{"phase":8,"season":2025,"tid":17,"type":"freeAgent"}],
 "draft":{"round":2,"pick":20,"tid":11,"originalTid":18,"year":2024},
 "college":"Akron",
