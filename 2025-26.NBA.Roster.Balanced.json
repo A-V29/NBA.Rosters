@@ -18348,7 +18348,7 @@
 "pos":"SF","hgt":78,"weight":230,"srID":"barnhbr01",
 "born":{"year":2002,"loc":"Lafayette, IN"},
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1642964.png",
-"contract":{"amount":600,"exp":2026,"rookie":true},
+"contract":{"amount":700,"exp":2027},
 "transactions":[{"phase":5,"season":2025,"tid":20,"type":"draft","pickNum":44}],
 "draft":{"round":2,"pick":14,"tid":20,"originalTid":0,"year":2025},
 "college":"Northwestern",
