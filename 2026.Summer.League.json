@@ -5458,7 +5458,6 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
-"draft":{"year":2026},
 "name":"Mohammad Amini",
 "ratings":[{"hgt":47,"stre":40,"spd":43,"jmp":25,"endu":22,"ins":40,"dnk":41,"ft":32,"fg":45,"tp":29,"diq":33,"oiq":34,"drb":34,"pss":38,"reb":50}],
 "pos":"SF","hgt":79,"weight":215,"srID":"dp_2026_mohammad_amini",
