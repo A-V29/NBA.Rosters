@@ -2,7 +2,7 @@ How to play: Download a file and in [basketball-gm](https://basketball-gm.com/) 
 
 NBA Roster files for basketball-gm.com, based on alexnoob's NBA Rosters (https://github.com/alexnoob/BasketBall-GM-Rosters).
 
-Contains all regular season and playoff stats(Stats are from https://www.basketball-reference.com). Adjusted 2026 draft, complete 2027-2029 drafts. 
+Contains all regular season and playoff stats(Stats are from https://www.basketball-reference.com) and 2027-2029 draft classes. 
 
 Base version is like alexnoob's NBA roster file.
 
