@@ -24711,14 +24711,14 @@
 {"type":"teamInfo","season":2040,"phase":0,"info":{"cid":1,"did":5,"tid":12,"region":"Los Angeles","name":"Clippers","colors":["#a81501","#ffffff","#3579cc"],"imgURL":"https://i.imgur.com/Yzfe4Z9.png","imgURLSmall":"https://i.imgur.com/bTJTcKX.png"},"id":30},
 {"type":"teamInfo","season":2040,"phase":0,"info":{"tid":0,"region":"Atlanta","name":"Hawks","imgURL":"https://i.imgur.com/SBOgCCX.png","imgURLSmall":"https://i.imgur.com/rYcDpRc.png"},"id":31},
 {"type":"teamInfo","season":2041,"phase":0,"info":{"tid":13,"region":"Los Angeles","name":"Lakers","imgURL":"https://i.imgur.com/v1CIkTl.png","imgURLSmall":"https://i.imgur.com/Xwr5PFQ.png"},"id":32},
-{"type":"gameAttributes","season":2027,"phase":4,"info":{"luxuryPayroll":243000,"maxContract":60145,"minContract":1600,"minPayroll":180435,"salaryCap":200445},"id":33},
-{"type":"gameAttributes","season":2028,"phase":4,"info":{"luxuryPayroll":255760,"maxContract":63135,"minContract":1700,"minPayroll":189405,"salaryCap":210450},"id":34},
-{"type":"gameAttributes","season":2029,"phase":4,"info":{"luxuryPayroll":255760,"maxContract":63135,"minContract":1700,"minPayroll":189405,"salaryCap":210450},"id":35},
-{"type":"gameAttributes","season":2030,"phase":4,"info":{"luxuryPayroll":269720,"maxContract":66550,"minContract":1800,"minPayroll":199760,"salaryCap":221980},"id":36},
-{"type":"gameAttributes","season":2031,"phase":4,"info":{"luxuryPayroll":283140,"maxContract":69960,"minContract":1800,"minPayroll":209770,"salaryCap":233090},"id":37},
-{"type":"gameAttributes","season":2032,"phase":4,"info":{"luxuryPayroll":289220,"maxContract":71370,"minContract":1900,"minPayroll":214320,"salaryCap":238075},"id":38},
-{"type":"gameAttributes","season":2033,"phase":4,"info":{"luxuryPayroll":300830,"maxContract":74300,"minContract":1900,"minPayroll":222810,"salaryCap":247620},"id":39},
-{"type":"gameAttributes","season":2034,"phase":4,"info":{"luxuryPayroll":312900,"maxContract":77300,"minContract":2000,"minPayroll":231840,"salaryCap":257565},"id":40}
+{"type":"gameAttributes","season":2027,"phase":4,"info":{"luxuryPayroll":255760,"maxContract":63135,"minContract":1700,"minPayroll":189405,"salaryCap":210450},"id":33},
+{"type":"gameAttributes","season":2028,"phase":4,"info":{"luxuryPayroll":269720,"maxContract":66550,"minContract":1800,"minPayroll":199760,"salaryCap":221980},"id":34},
+{"type":"gameAttributes","season":2029,"phase":4,"info":{"luxuryPayroll":269720,"maxContract":66550,"minContract":1800,"minPayroll":199760,"salaryCap":221980},"id":35},
+{"type":"gameAttributes","season":2030,"phase":4,"info":{"luxuryPayroll":283140,"maxContract":69960,"minContract":1800,"minPayroll":209770,"salaryCap":233090},"id":36},
+{"type":"gameAttributes","season":2031,"phase":4,"info":{"luxuryPayroll":289220,"maxContract":71370,"minContract":1900,"minPayroll":214320,"salaryCap":238075},"id":37},
+{"type":"gameAttributes","season":2032,"phase":4,"info":{"luxuryPayroll":300830,"maxContract":74300,"minContract":1900,"minPayroll":222810,"salaryCap":247620},"id":38},
+{"type":"gameAttributes","season":2033,"phase":4,"info":{"luxuryPayroll":312900,"maxContract":77300,"minContract":2000,"minPayroll":231840,"salaryCap":257565},"id":39},
+{"type":"gameAttributes","season":2034,"phase":4,"info":{"luxuryPayroll":319560,"maxContract":78850,"minContract":2000,"minPayroll":236500,"salaryCap":262720},"id":40}
 ],
 "draftPicks":[
 {"tid":26,"originalTid":0,"round":1,"pick":0,"season":2027,"dpid":0},
