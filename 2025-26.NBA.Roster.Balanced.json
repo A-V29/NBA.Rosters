@@ -437,7 +437,7 @@
 {"playoffs":false,"season":2026,"tid":2,"minMax":[38.75],"fgMax":[12],"fgaMax":[15],"tpMax":[1],"tpaMax":[2],"2pMax":[11],"2paMax":[15],"ftMax":[8],"ftaMax":[12],"orbMax":[7],"drbMax":[9],"trbMax":[14],"astMax":[12],"stlMax":[3],"blkMax":[4],"tovMax":[5],"pfMax":[6],"ptsMax":[28],"gmscMax":[26.5],"gp":69,"gs":68,"min":1920,"fg":333,"fga":583,"tp":3,"tpa":19,"fg2":330,"fga2":564,"ft":141,"fta":229,"orb":168,"drb":310,"ast":253,"stl":45,"blk":77,"tov":96,"pf":158,"pts":810,"td":2,"per":17.6,"ts":0.592,"tpar":0.033,"ftr":0.393,"orbp":9.6,"drbp":19.9,"trbp":14.5,"astp":21.8,"stlp":1.2,"blkp":3.7,"tovp":12.3,"usgp":17.7,"ows":3.3,"dws":1.5,"ws":4.8,"ws48":0.121,"obpm":0.3,"dbpm":0.6,"bpm":0.9,"vorp":1.4,"pm100":-13.2,"onOff100":-5.4,"ba":45,"ortg":123.0,"drtg":118.0,"ewa":5.35,"pm":-515,"pmMax":[24],"dd":11,"jerseyNumber":"33","yearsWithTeam":7}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":25,
+{"tid":-1,
 "name":"DeMar DeRozan",
 "ratings":[{"season":2010,"hgt":50,"stre":52,"spd":63,"jmp":62,"endu":44,"ins":58,"dnk":67,"ft":52,"fg":46,"tp":24,"diq":35,"oiq":48,"drb":51,"pss":44,"reb":49},{"season":2011,"hgt":50,"stre":54,"spd":63,"jmp":63,"endu":75,"ins":64,"dnk":68,"ft":60,"fg":54,"tp":19,"diq":42,"oiq":52,"drb":50,"pss":41,"reb":50},{"season":2012,"hgt":50,"stre":56,"spd":63,"jmp":63,"endu":80,"ins":63,"dnk":67,"ft":60,"fg":57,"tp":29,"diq":49,"oiq":41,"drb":50,"pss":42,"reb":49},{"season":2013,"hgt":50,"stre":58,"spd":64,"jmp":63,"endu":82,"ins":63,"dnk":67,"ft":63,"fg":57,"tp":29,"diq":49,"oiq":41,"drb":50,"pss":42,"reb":49},{"season":2014,"hgt":50,"stre":60,"spd":78,"jmp":59,"endu":87,"ins":78,"dnk":84,"ft":62,"fg":75,"tp":38,"diq":43,"oiq":54,"drb":58,"pss":60,"reb":42},{"season":2015,"hgt":50,"stre":60,"spd":75,"jmp":85,"endu":89,"ins":81,"dnk":90,"ft":64,"fg":80,"tp":34,"diq":43,"oiq":54,"drb":64,"pss":52,"reb":45},{"season":2016,"hgt":50,"stre":60,"spd":75,"jmp":85,"endu":89,"ins":81,"dnk":90,"ft":66,"fg":80,"tp":44,"diq":43,"oiq":54,"drb":64,"pss":52,"reb":45},{"season":2017,"hgt":50,"stre":58,"spd":75,"jmp":85,"endu":86,"ins":90,"dnk":95,"ft":65,"fg":90,"tp":45,"diq":43,"oiq":54,"drb":70,"pss":52,"reb":45},{"season":2018,"hgt":50,"stre":59,"spd":76,"jmp":85,"endu":83,"ins":80,"dnk":87,"ft":64,"fg":87,"tp":54,"diq":43,"oiq":54,"drb":76,"pss":52,"reb":42},{"season":2019,"hgt":50,"stre":59,"spd":76,"jmp":80,"endu":75,"ins":76,"dnk":93,"ft":64,"fg":89,"tp":29,"diq":34,"oiq":65,"drb":74,"pss":54,"reb":54},{"season":2020,"hgt":50,"stre":59,"spd":76,"jmp":70,"endu":75,"ins":75,"dnk":87,"ft":64,"fg":92,"tp":31,"diq":29,"oiq":57,"drb":74,"pss":56,"reb":65},{"season":2021,"hgt":50,"stre":59,"spd":79,"jmp":65,"endu":75,"ins":56,"dnk":87,"ft":64,"fg":92,"tp":34,"diq":39,"oiq":57,"drb":74,"pss":53,"reb":62},{"season":2022,"hgt":50,"stre":49,"spd":79,"jmp":65,"endu":73,"ins":67,"dnk":87,"ft":64,"fg":88,"tp":37,"diq":39,"oiq":67,"drb":74,"pss":47,"reb":62},{"season":2023,"hgt":50,"stre":35,"spd":79,"jmp":60,"endu":73,"ins":77,"dnk":94,"ft":64,"fg":92,"tp":29,"diq":36,"oiq":71,"drb":74,"pss":49,"reb":57},{"season":2024,"hgt":50,"stre":22,"spd":68,"jmp":60,"endu":95,"ins":70,"dnk":68,"ft":66,"fg":80,"tp":34,"diq":41,"oiq":79,"drb":65,"pss":42,"reb":52},{"season":2025,"hgt":50,"stre":28,"spd":65,"jmp":49,"endu":99,"ins":77,"dnk":68,"ft":67,"fg":98,"tp":36,"diq":40,"oiq":82,"drb":64,"pss":37,"reb":47},
 {"season":2026,"hgt":50,"stre":23,"spd":64,"jmp":41,"endu":80,"ins":77,"dnk":67,"ft":68,"fg":95,"tp":34,"diq":41,"oiq":83,"drb":64,"pss":38,"reb":43}],
@@ -445,7 +445,7 @@
 "born":{"year":1990,"loc":"Compton, CA"},
 "moodTraits":["$"],
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png",
-"contract":{"amount":25200,"exp":2027},
+"contract":{"amount":12200,"exp":2026},
 "transactions":[{"phase":8,"season":2024,"tid":25,"type":"trade","fromTid":4}],
 "draft":{"round":1,"pick":9,"tid":27,"originalTid":27,"year":2009},
 "college":"USC",
@@ -16688,14 +16688,14 @@
 {"playoffs":false,"season":2026,"tid":13,"minMax":[29.283333333333335],"fgMax":[9],"fgaMax":[12],"tpMax":[3],"tpaMax":[4],"2pMax":[6],"2paMax":[8],"ftMax":[2],"ftaMax":[4],"orbMax":[2],"drbMax":[3],"trbMax":[3],"astMax":[4],"stlMax":[2],"blkMax":[0],"tovMax":[3],"pfMax":[4],"ptsMax":[21],"gmscMax":[18.4],"gp":27,"gs":1,"min":235,"fg":38,"fga":66,"tp":11,"tpa":25,"fg2":27,"fga2":41,"ft":5,"fta":9,"orb":10,"drb":23,"ast":23,"stl":6,"blk":0,"tov":13,"pf":20,"pts":92,"td":0,"per":12.6,"ts":0.658,"tpar":0.379,"ftr":0.136,"orbp":5.2,"drbp":11.1,"trbp":8.2,"astp":13.7,"stlp":1.2,"blkp":0.0,"tovp":15.7,"usgp":15.4,"ows":0.3,"dws":0.1,"ws":0.4,"ws48":0.092,"obpm":-0.8,"dbpm":-1.4,"bpm":-2.2,"vorp":0.0,"pm100":-5.0,"onOff100":-7.3,"ba":4,"ortg":121.0,"drtg":120.0,"ewa":0.19,"pm":-23,"pmMax":[17],"dd":0,"jerseyNumber":"17","yearsWithTeam":1}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":23,
 "name":"Koby Brea",
 "jerseyNumber":"14",
 "ratings":[{"season":2026,"hgt":44,"stre":39,"spd":48,"jmp":44,"endu":34,"ins":35,"dnk":12,"ft":72,"fg":72,"tp":68,"diq":33,"oiq":48,"drb":37,"pss":33,"reb":42}],
 "pos":"GF","hgt":79,"weight":215,"srID":"breako01",
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1642886.png",
 "born":{"year":2003,"loc":"Bronx, NY"},
-"contract":{"amount":600,"exp":2026},
+"contract":{"amount":700,"exp":2027},
 "transactions":[{"phase":4,"season":2025,"tid":23,"type":"trade","fromTid":9}],
 "draft":{"round":2,"pick":11,"tid":9,"originalTid":15,"year":2025},
 "college":"Kentucky",
@@ -25322,7 +25322,8 @@
 {"pid":485,"tid":21,"contract":{"amount":8000,"exp":2027}},
 {"pid":123,"tid":23,"contract":{"amount":19400,"exp":2030}},
 {"pid":614,"tid":23,"contract":{"amount":3100,"exp":2031}},
-{"pid":707,"tid":23,"contract":{"amount":700,"exp":2027}}
+{"pid":707,"tid":23,"contract":{"amount":700,"exp":2027}},
+{"pid":16,"tid":25,"contract":{"amount":10000,"exp":2027}}
 ],
 "schedule":[],
 "gameAttributes":{
