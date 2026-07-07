@@ -11423,7 +11423,6 @@
 "pos":"SG","hgt":77,"weight":210,"srID":"agbajoc01",
 "born":{"year":2000,"loc":"Kansas City, MO"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630534.png",
-"contract":{"amount":6400,"exp":2027},
 "transactions":[{"phase":1,"season":2026,"tid":2,"type":"trade","fromTid":27}],
 "draft":{"round":1,"pick":14,"tid":5,"originalTid":5,"year":2022},
 "college":"Kansas",
