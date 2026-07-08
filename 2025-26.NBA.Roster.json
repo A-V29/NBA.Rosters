@@ -7803,7 +7803,7 @@
 {"playoffs":false,"season":2026,"tid":3,"minMax":[32.11666666666667],"fgMax":[7],"fgaMax":[10],"tpMax":[4],"tpaMax":[10],"2pMax":[3],"2paMax":[5],"ftMax":[5],"ftaMax":[7],"orbMax":[6],"drbMax":[6],"trbMax":[9],"astMax":[5],"stlMax":[4],"blkMax":[4],"tovMax":[3],"pfMax":[4],"ptsMax":[20],"gmscMax":[18.8],"gp":36,"gs":3,"min":711,"fg":78,"fga":183,"tp":52,"tpa":134,"fg2":26,"fga2":49,"ft":44,"fta":54,"orb":46,"drb":96,"ast":56,"stl":17,"blk":18,"tov":31,"pf":56,"pts":252,"td":0,"per":12.9,"ts":0.609,"tpar":0.732,"ftr":0.295,"orbp":7.4,"drbp":15.0,"trbp":11.3,"astp":10.6,"stlp":1.2,"blkp":2.3,"tovp":13.0,"usgp":14.1,"ows":1.1,"dws":0.8,"ws":1.9,"ws48":0.131,"obpm":0.6,"dbpm":1.0,"bpm":1.6,"vorp":0.7,"pm100":13.3,"onOff100":10.5,"ba":6,"ortg":126.0,"drtg":115.0,"ewa":0.54,"pm":203,"pmMax":[33],"dd":0,"jerseyNumber":"2","yearsWithTeam":3}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":29,
+{"tid":14,
 "name":"D'Angelo Russell",
 "jerseyNumber":"28",
 "ratings":[{"season":2016,"hgt":42,"stre":36,"spd":62,"jmp":56,"endu":57,"ins":38,"dnk":72,"ft":48,"fg":72,"tp":57,"diq":34,"oiq":50,"drb":72,"pss":73,"reb":25},{"season":2017,"hgt":42,"stre":41,"spd":70,"jmp":65,"endu":64,"ins":46,"dnk":73,"ft":55,"fg":75,"tp":60,"diq":34,"oiq":50,"drb":77,"pss":70,"reb":25},{"season":2018,"hgt":42,"stre":41,"spd":70,"jmp":65,"endu":64,"ins":46,"dnk":73,"ft":48,"fg":75,"tp":63,"diq":34,"oiq":50,"drb":81,"pss":52,"reb":45},{"season":2019,"hgt":42,"stre":41,"spd":70,"jmp":58,"endu":58,"ins":72,"dnk":86,"ft":58,"fg":88,"tp":67,"diq":42,"oiq":62,"drb":66,"pss":55,"reb":48},{"season":2020,"hgt":42,"stre":41,"spd":62,"jmp":66,"endu":58,"ins":67,"dnk":85,"ft":60,"fg":83,"tp":71,"diq":42,"oiq":63,"drb":62,"pss":60,"reb":59},{"season":2021,"hgt":42,"stre":41,"spd":62,"jmp":66,"endu":58,"ins":67,"dnk":85,"ft":60,"fg":83,"tp":71,"diq":42,"oiq":63,"drb":62,"pss":60,"reb":59},{"season":2022,"hgt":42,"stre":41,"spd":62,"jmp":66,"endu":55,"ins":58,"dnk":86,"ft":60,"fg":77,"tp":68,"diq":42,"oiq":57,"drb":57,"pss":50,"reb":53},{"season":2023,"hgt":42,"stre":38,"spd":65,"jmp":68,"endu":50,"ins":48,"dnk":80,"ft":60,"fg":76,"tp":66,"diq":43,"oiq":58,"drb":60,"pss":63,"reb":53},{"season":2024,"hgt":42,"stre":34,"spd":65,"jmp":69,"endu":40,"ins":60,"dnk":67,"ft":62,"fg":85,"tp":67,"diq":43,"oiq":67,"drb":60,"pss":60,"reb":53},{"season":2025,"hgt":42,"stre":30,"spd":64,"jmp":62,"endu":25,"ins":59,"dnk":61,"ft":63,"fg":78,"tp":64,"diq":43,"oiq":67,"drb":58,"pss":56,"reb":51},
@@ -7812,7 +7812,7 @@
 "born":{"year":1996,"loc":"Louisville, KY"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626156.png",
 "contract":{"amount":5900,"exp":2027},
-"transactions":[{"phase":1,"season":2026,"tid":29,"type":"trade","fromTid":6}],
+"transactions":[{"phase":8,"season":2026,"tid":14,"type":"trade","fromTid":29}],
 "draft":{"round":1,"pick":2,"tid":13,"originalTid":13,"year":2015},
 "college":"Ohio State",
 "awards":[{"season":2019,"type":"All-Star"}],
