@@ -11850,7 +11850,7 @@
 {"playoffs":false,"season":2026,"tid":14,"minMax":[23.65],"fgMax":[7],"fgaMax":[16],"tpMax":[3],"tpaMax":[7],"2pMax":[7],"2paMax":[15],"ftMax":[6],"ftaMax":[6],"orbMax":[2],"drbMax":[3],"trbMax":[3],"astMax":[8],"stlMax":[5],"blkMax":[1],"tovMax":[7],"pfMax":[5],"ptsMax":[18],"gmscMax":[15.1],"gp":10,"gs":6,"min":212,"fg":43,"fga":96,"tp":10,"tpa":32,"fg2":33,"fga2":64,"ft":18,"fta":23,"orb":8,"drb":14,"ast":47,"stl":19,"blk":4,"tov":27,"pf":31,"pts":114,"td":0,"per":14.7,"ts":0.537,"tpar":0.333,"ftr":0.24,"orbp":4.0,"drbp":7.3,"trbp":5.6,"astp":33.8,"stlp":4.2,"blkp":1.7,"tovp":20.3,"usgp":26.1,"ows":-0.1,"dws":0.2,"ws":0.1,"ws48":0.025,"obpm":-2.5,"dbpm":-0.3,"bpm":-2.8,"vorp":0.0,"pm100":-10.8,"onOff100":-5.1,"ba":6,"ortg":103.0,"drtg":115.0,"ewa":0.31,"pm":-50,"pmMax":[15],"dd":0,"jerseyNumber":"1","yearsWithTeam":3}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":8,
+{"tid":6,
 "name":"Marcus Sasser",
 "ratings":[{"season":2024,"hgt":38,"stre":35,"spd":63,"jmp":55,"endu":27,"ins":37,"dnk":35,"ft":63,"fg":68,"tp":69,"diq":41,"oiq":56,"drb":46,"pss":51,"reb":55},{"season":2025,"hgt":38,"stre":34,"spd":63,"jmp":55,"endu":22,"ins":37,"dnk":40,"ft":64,"fg":77,"tp":69,"diq":44,"oiq":58,"drb":46,"pss":53,"reb":54},
 {"season":2026,"hgt":38,"stre":32,"spd":60,"jmp":52,"endu":18,"ins":37,"dnk":40,"ft":65,"fg":77,"tp":69,"diq":44,"oiq":58,"drb":46,"pss":53,"reb":53}],
@@ -11858,7 +11858,7 @@
 "born":{"year":2001,"loc":"Dallas, TX"},
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1631204.png",
 "contract":{"amount":4100,"exp":2027,"rookie":true},
-"transactions":[{"phase":0,"season":2023,"tid":8,"type":"trade","fromTid":1}],
+"transactions":[{"phase":8,"season":2026,"tid":6,"type":"trade","fromTid":8}],
 "draft":{"round":1,"pick":25,"tid":14,"originalTid":14,"year":2023},
 "college":"Houston",
 "stats":[
