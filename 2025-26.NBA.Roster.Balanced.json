@@ -19343,15 +19343,15 @@
 "college":"Arizona",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":8,
 "name":"Elijah Harkless",
 "ratings":[{"season":2025,"hgt":40,"stre":31,"spd":57,"jmp":54,"endu":23,"ins":31,"dnk":43,"ft":50,"fg":48,"tp":47,"diq":52,"oiq":49,"drb":43,"pss":37,"reb":58},
 {"season":2026,"hgt":40,"stre":31,"spd":57,"jmp":54,"endu":23,"ins":31,"dnk":53,"ft":50,"fg":48,"tp":36,"diq":52,"oiq":52,"drb":46,"pss":40,"reb":51}],
 "pos":"G","hgt":75,"weight":195,"srID":"harklej01",
 "born":{"year":2000,"loc":"Etiwanda, CA"},
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1641989.png",
-"contract":{"amount":600,"exp":2027},
-"transactions":[{"phase":1,"season":2025,"tid":28,"type":"freeAgent"}],
+"contract":{"amount":700,"exp":2027},
+"transactions":[{"phase":8,"season":2026,"tid":8,"type":"freeAgent"}],
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2023},
 "college":"UNLV",
 "stats":[
